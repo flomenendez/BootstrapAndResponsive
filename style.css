@@ -1,0 +1,26 @@
+h3 {
+    text-align: center;
+}
+
+.container {
+    margin-top: 5%;
+}
+
+h4 {
+    margin-top: 3%;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.col {
+    text-align: justify;
+}
+
+/*responsive*/
+
+@media (max-width: 768px) {
+    .container {
+        font-size: 90%;
+    }
+}
+
